@@ -1,0 +1,68 @@
+.main-navbar{
+    background-color: #031431 !important;
+    letter-spacing: .4rem;
+    
+   
+}
+
+
+.uk-logo {
+    color:  #ffffff!important;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    -webkit-text-stroke-width: .60px;
+     -webkit-text-stroke-color:#d2e6ffcb;
+     text-align: center;
+}
+
+.full-bckground.uk-background-muted.uk-padding.uk-panel {
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(57,64,91,1) 26%, rgba(37,94,164,1) 48%, rgba(35,97,171,1) 62%, rgba(34,99,177,1) 67%, rgba(50,155,203,1) 81%,  #4670be90 100%);
+}
+
+
+.uk-h4, h4 {
+    color: #cfe9ef!important ;
+    text-align:center ;
+   
+}
+
+.uk-overlay-default {
+    background-color: #004aa495!important;
+}
+
+.slideshow{
+    color: #cfe9ef!important ;
+    text-align:center ;
+
+}
+
+.uk-card-body {
+    color: #ffffffe6;
+    font-size : 17px;
+    
+
+}
+.uk-card-title{
+    color: #567dae!important;
+    font-weight: 300;
+    font: 1em sans-serif;
+   
+}
+.login__button {
+    width: 100%;
+    padding: 14px 2rem;
+    border-radius: 6px;
+    background:#0c4e9ec7!important;
+    color: #fff!important;
+    font-size: var(--small-font-size);
+    font-weight: var(--font-semi-bold);
+    box-shadow: 0 6px 24px hsla(244, 75%, 48%, 0.5);
+    margin-bottom: 1rem;
+    cursor: pointer;
+    text-decoration: none!important;
+  }
+.back-button {
+    text-align:left;
+}
+
